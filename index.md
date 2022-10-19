@@ -1,6 +1,7 @@
 # This is a large header
 ## This is a medium size header
 ###### This is the smallest header
+![image of Yaktocat]
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 $ git init
